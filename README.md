@@ -1,7 +1,8 @@
 # gigachat
 ### Chatting website for a school project.
+[LINK to online preview](http://gigachat.borec.cz/)
 
-![http://gigachat.borec.cz/](gigachat.jpg)
+![](gigachat.jpg)
 
 gigachat is a simple dark themed chatting website comprising of the chatting form (name + message) and displayed messages. 
 It is written in:
