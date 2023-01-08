@@ -1,6 +1,6 @@
 # gigachat
 ### Chatting website for a school project.
-[LINK to online preview](http://gigachat.borec.cz/)
+[LINK to online preview](https://gigachat.000webhostapp.com/)
 
 ![](gigachat.jpg)
 
