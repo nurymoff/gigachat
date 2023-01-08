@@ -1,7 +1,7 @@
 # gigachat
 ### Chatting website for a school project.
 
-![http://gigachat.borec.cz/](submit.png)
+![http://gigachat.borec.cz/](gigachat.png)
 
 gigachat is a simple dark themed chatting website comprising of the chatting form (name + message) and displayed messages. 
 It is written in:
@@ -21,4 +21,4 @@ It is written in:
 - Fully responsive layout (hopefully)
 
 ### Diagram of messageLengthCheck() function
-![](submit.png)
+![](messageLengthCheck.png)
